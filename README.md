@@ -53,6 +53,20 @@ npm run dev
 
 Then open the URL Vite prints (usually http://localhost:8080).
 
+## Sample Output
+
+- Dieline → 3D Box Home page before uploading
+
+<img width="1366" height="686" alt="image" src="https://github.com/user-attachments/assets/f06deef2-d05d-448b-b58f-2b83c3daba00" />
+
+- Upload a PNG or PDF cross dieline, then fold it into a 3D box. 
+
+<img width="1352" height="685" alt="image" src="https://github.com/user-attachments/assets/547195b7-978e-4e42-8055-27b842483cc2" />
+
+- clicking Fold
+
+<img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/7e425949-3247-44cc-b3ae-73373b879502" />
+
 ## How the folding works
 
 - The **front** panel is the base and stays in the XY plane.
